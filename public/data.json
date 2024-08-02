@@ -1,0 +1,18 @@
+[
+    {
+        "media_id": "dce6803c-abf7-4d98-a8ca-8dde68bdc2fc",
+        "description": "Photograph: Close-up of a man and woman, presumably in a romantic embrace, with the man's face partially visible as he leans in to kiss the woman's forehead. The woman's face is more prominently shown, with her eyes closed and a serene expression. She is wearing a silver headpiece, and her makeup is subtle with a focus on her eyes and lips. The background is blurred, emphasizing the subjects, and the lighting is soft, creating a warm and intimate atmosphere.",
+        "content":
+        {
+            "rank-score": 0.1
+        }
+    },
+    {
+        "media_id": "a0a46341-9521-499c-8ed4-d0552f707f92",
+        "description": "Two individuals, one male and one female, are captured in a tender moment, with their foreheads touching and eyes closed, suggesting intimacy and affection. The setting appears to be outdoors, with a brick wall in the background, adding a rustic ambiance to the scene.",
+        "content":
+        {
+            "rank-score": 0.2
+        }
+    }
+]
